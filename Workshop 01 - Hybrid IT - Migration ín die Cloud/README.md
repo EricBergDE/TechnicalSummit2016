@@ -4,8 +4,11 @@ Willkommen beim **#msts2016** Workshop "Hybrid IT: Migration - Der Weg in die Cl
 
 Inhalt:  
 Welche Wege gibt es, Systeme aus dem eigenen Rechenzentrum nach Microsoft Azure zu bringen? Was brauche ich für die Migration? Wie aufwändig ist die Migration? Gibt es auch wieder einen Weg zurück?  
+
 In diesem Workshop schauen wir uns den Weg in die Cloud gemeinsam näher an. Neben den technischen Grundlagen werden in praktischen Übungen die Schritte in die Cloud selbst nachvollzogen.  
-Auf der Agenda stehen u.a. Themen wie die Azure Subscription, Azure Site Recovery oder die verschiedenen Migrationswege in die Cloud.  
+
+Auf der Agenda stehen u.a. Themen wie die Azure Subscription, Azure Site Recovery oder die verschiedenen Migrationswege in die Cloud.   
+
 Die Trainer stehen jederzeit für Fragen und zur Unterstützung zur Verfügung. 
 
 ## Info
@@ -35,9 +38,9 @@ Uhrzeit         | Thema
 
 ## Anmeldung an den Laptops
 
-An allen Teilnehmer-Notebooks kann sich mit folgenden Zugangsdaten angemeldet werden:
-User: Administrator
-Passwort: #MSTS2016
+An allen Teilnehmer-Notebooks kann sich mit folgenden Zugangsdaten angemeldet werden:  
+User: Administrator  
+Passwort: #MSTS2016  
 
 ## Microsoft Konten
 
