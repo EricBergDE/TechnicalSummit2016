@@ -51,11 +51,11 @@ Microsoft Konten werden im Workshop gestellt. Sie haben das Format:
 Die Passworte werden im Workshop mitgeteilt. Am besten auschreiben!
 
 ## Kontakte
-**Benedict Berger**
-E-Mail: ...@microsoft.com
-Twitter: https://www.twitter.com/Beber_MSFT
+**Benedict Berger**  
+E-Mail: ...@microsoft.com  
+Twitter: https://www.twitter.com/Beber_MSFT  
 
 **Eric Berg**
-E-Mail: Eric.Berg@comparex.de
-Blog: http://www.ericberg.de
-Twitter: https://www.twitter.com/ericberg_de
+E-Mail: Eric.Berg@comparex.de  
+Blog: http://www.ericberg.de  
+Twitter: https://www.twitter.com/ericberg_de  
