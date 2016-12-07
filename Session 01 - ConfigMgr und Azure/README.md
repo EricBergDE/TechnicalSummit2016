@@ -2,6 +2,10 @@
 
 Alles dreht sich um die Cloud und alles dreht sich um Management. Doch was ist, wenn beides zusammenkommt? Welche Möglichkeiten ergeben sich bei der Verwendung von System Center Configuration Manager in Verbindung mit Microsoft Azure? Welche Grenzen und Einschränkungen gibt es? All diese Fragen und noch mehr werden in dieser spannenden Session voller Demos geklärt.
 
+## Slides
+
+Die Slides meiner Session findet ihr hier: [Download](https://github.com/EricBergDE/TechnicalSummit2016/blob/master/Session%2001%20-%20ConfigMgr%20und%20Azure/MSTS_EricBerg_ConfigMgr-Azure-Better-together.pdf)
+
 ## Demo-Videos
 
 Wie versprochen habe ich auch die Demo-Videos hochgeladen:  
