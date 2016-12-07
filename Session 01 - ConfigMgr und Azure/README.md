@@ -2,6 +2,12 @@
 
 Alles dreht sich um die Cloud und alles dreht sich um Management. Doch was ist, wenn beides zusammenkommt? Welche Möglichkeiten ergeben sich bei der Verwendung von System Center Configuration Manager in Verbindung mit Microsoft Azure? Welche Grenzen und Einschränkungen gibt es? All diese Fragen und noch mehr werden in dieser spannenden Session voller Demos geklärt.
 
+## Demo-Videos
+
+Wie versprochen habe ich auch die Demo-Videos hochgeladen:  
+[Intune Integration in ConfigMgr](https://youtu.be/nOjX7LMifww)  
+[WIndows Store for Business Integration in ConfigMgr](https://youtu.be/Qy0lhlGOCO0)  
+
 ## Azure Infrastruktur
 
 **Dokumentation:**  
