@@ -24,15 +24,15 @@ Alle Teilnehmer teilen sich einen Internetzugang. Daher bitte "bandbreitensparsa
 
 Uhrzeit         | Thema
 ----------------|:-----------------------------
-09:00 - 10:00   | Vorstellung, Agenda & Orga
-10:00 - 11:00   | [Modul 01 - DemoLab und Einrichtung](Modul01/)
-*11:00 - 11:15* | *1. Kaffeepause*
-11:15 - 12:00   | [Modul 02 - Einführung Hybrid IT](Modul02/)
-12:00 - 13:00   | [Modul 03 - Migrationswege](Modul03/)
-*13:00 - 14:00* | *Mittagspause*
-14:00 - 15:30   | [Modul 04 - Azure Site Recovery Hands-On](Modul04/)
-*15:30 - 15:45* | *2. Kaffeepause*
-15:45 - 17:00   | [Modul 05 - Automatisierung, Azure PowerShell](Modul05/)
+09:00 - 09:30   | Vorstellung, Agenda & Orga
+09:30 - 10:30   | [Modul 01 - DemoLab und Einrichtung](Modul01/)
+*10:30 - 11:00* | *1. Kaffeepause*
+11:00 - 11:30   | [Modul 02 - Einführung Hybrid IT](Modul02/)
+11:30 - 12:30   | [Modul 03 - Migrationswege](Modul03/)
+*12:30 - 13:30* | *Mittagspause*
+13:30 - 15:00   | [Modul 04 - Azure Site Recovery Hands-On](Modul04/)
+*15:00 - 15:30* | *2. Kaffeepause*
+15:30 - 17:00   | [Modul 05 - Automatisierung, Azure PowerShell](Modul05/)
 17:00 - 17:30   | [Abschluss, Tipps & Fragen](Modul06/)
 17:30           | Ende des Workshops
 
