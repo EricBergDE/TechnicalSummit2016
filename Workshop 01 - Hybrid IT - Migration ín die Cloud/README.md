@@ -55,7 +55,7 @@ Die Passworte werden im Workshop mitgeteilt. Am besten auschreiben!
 E-Mail: beber@microsoft.com  
 Twitter: https://www.twitter.com/Beber_MSFT  
 
-**Eric Berg**
+**Eric Berg**  
 E-Mail: Eric.Berg@comparex.de  
 Blog: http://www.ericberg.de  
 Twitter: https://www.twitter.com/ericberg_de  
