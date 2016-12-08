@@ -36,6 +36,10 @@ Uhrzeit         | Thema
 17:00 - 17:30   | [Abschluss, Tipps & Fragen](Modul06/)
 17:30           | Ende des Workshops
 
+## Slides
+
+Die Slides des Tages findet ihr hier als [Download](https://github.com/EricBergDE/TechnicalSummit2016/blob/master/Workshop%2001%20-%20Hybrid%20IT%20-%20Migration%20%C3%ADn%20die%20Cloud/MSTS_BenedictBerger_EricBerg_HybridIT.pdf)
+
 ## Anmeldung an den Laptops
 
 An allen Teilnehmer-Notebooks kann sich mit folgenden Zugangsdaten angemeldet werden:  
