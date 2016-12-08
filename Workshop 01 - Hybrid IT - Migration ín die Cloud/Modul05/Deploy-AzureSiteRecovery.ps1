@@ -194,15 +194,15 @@ $Mapping = Get-AzureRmSiteRecoveryProtectionContainerMapping -Name "Mapping" -Pr
 
 #protect
 
-#old: $protectionEntity01 = Get-AzureRmSiteRecoveryProtectionEntity -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName01
-#old: $protectionEntity02 = Get-AzureRmSiteRecoveryProtectionEntity -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName02
-$ProtectableItem01 = Get-AzureRmSiteRecoveryProtectableItem -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName01
-$ProtectableItem02 = Get-AzureRmSiteRecoveryProtectableItem -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName02
+$protectionEntity01 = Get-AzureRmSiteRecoveryProtectionEntity -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName01
+$protectionEntity02 = Get-AzureRmSiteRecoveryProtectionEntity -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName02
+#new: $ProtectableItem01 = Get-AzureRmSiteRecoveryProtectableItem -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName01
+#new: $ProtectableItem02 = Get-AzureRmSiteRecoveryProtectableItem -ProtectionContainer $protectionContainer -FriendlyName $VMFriendlyName02
 
-#ol:d $DRjob01 = Set-AzureRmSiteRecoveryProtectionEntity -ProtectionEntity $protectionEntity01 -Policy $Policy -Protection Enable -RecoveryAzureStorageAccountId $storageaccountID  -OS $OStype -OSDiskName $protectionEntity01.Disks[0].Name
-#old: $DRjob02 = Set-AzureRmSiteRecoveryProtectionEntity -ProtectionEntity $protectionEntity02 -Policy $Policy -Protection Enable -RecoveryAzureStorageAccountId $storageaccountID  -OS $OStype -OSDiskName $protectionEntity02.Disks[0].Name
-$DRjob01 = New-AzureRmSiteRecoveryReplicationProtectedItem -Name "VM01" -ProtectableItem $ProtectableItem01 -RecoveryAzureStorageAccountId $storageaccountID -OS $OStype -OSDiskName $protectionEntity01.Disks[0].Name
-$DRjob02 = New-AzureRmSiteRecoveryReplicationProtectedItem -Name "VM02" -ProtectableItem $ProtectableItem02 -RecoveryAzureStorageAccountId $storageaccountID -OS $OStype -OSDiskName $protectionEntity02.Disks[0].Name
+$DRjob01 = Set-AzureRmSiteRecoveryProtectionEntity -ProtectionEntity $protectionEntity01 -Policy $Policy -Protection Enable -RecoveryAzureStorageAccountId $storageaccountID  -OS $OStype -OSDiskName $protectionEntity01.Disks[0].Name
+$DRjob02 = Set-AzureRmSiteRecoveryProtectionEntity -ProtectionEntity $protectionEntity02 -Policy $Policy -Protection Enable -RecoveryAzureStorageAccountId $storageaccountID  -OS $OStype -OSDiskName $protectionEntity02.Disks[0].Name
+#new: $DRjob01 = New-AzureRmSiteRecoveryReplicationProtectedItem -Name "VM01" -ProtectableItem $ProtectableItem01 -RecoveryAzureStorageAccountId $storageaccountID -OS $OStype -OSDiskName $protectionEntity01.Disks[0].Name
+#new: $DRjob02 = New-AzureRmSiteRecoveryReplicationProtectedItem -Name "VM02" -ProtectableItem $ProtectableItem02 -RecoveryAzureStorageAccountId $storageaccountID -OS $OStype -OSDiskName $protectionEntity02.Disks[0].Name
 
 
 Write-Host "ProtectionJobs started..." -ForegroundColor Green
