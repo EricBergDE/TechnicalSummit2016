@@ -27,5 +27,3 @@ Die Passworte werden im Workshop mitgeteilt. Am besten aufschreiben!
 Jeder Teilnehmer erhält einen Azure Pass, welcher auch im Nachgang verwendet werden kann.
 
 Die Aktivierung des Azure Passes erfolgt auf folgender Seite: [Azure Pass](http://www.microsoftazurepass.com/)
-
-[Passes](http://pastebin.com/WgZVSSvA)
