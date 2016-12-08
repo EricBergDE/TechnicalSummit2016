@@ -30,10 +30,10 @@ Uhrzeit         | Thema
 11:15 - 12:00   | [Modul 02 - Einführung Hybrid IT](Modul02/)
 12:00 - 13:00   | [Modul 03 - Migrationswege](Modul03/)
 *13:00 - 14:00* | *Mittagspause*
-14:00 - 15:30   | [Modul 04 - Azure Site Recovery](Modul04/)
+14:00 - 15:30   | [Modul 04 - Azure Site Recovery Hands-On](Modul04/)
 *15:30 - 15:45* | *2. Kaffeepause*
 15:45 - 17:00   | [Modul 05 - Automatisierung, Azure PowerShell](Modul05/)
-17:00 - 17:30   | [Abschluss, Tipps & Fragen](Modul07/)
+17:00 - 17:30   | [Abschluss, Tipps & Fragen](Modul06/)
 17:30           | Ende des Workshops
 
 ## Anmeldung an den Laptops
@@ -52,7 +52,7 @@ Die Passworte werden im Workshop mitgeteilt. Am besten auschreiben!
 
 ## Kontakte
 **Benedict Berger**  
-E-Mail: ...@microsoft.com  
+E-Mail: beber@microsoft.com  
 Twitter: https://www.twitter.com/Beber_MSFT  
 
 **Eric Berg**
